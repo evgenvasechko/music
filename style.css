@@ -50,9 +50,7 @@ body{
     width: 640px;
     height: 30px;
     display: block;
-    margin-left: 337px;
-    margin-top: -20px;
-    horiz-align: center;
+    margin: 0 auto;
 }
 .content .time{
     display: block;
@@ -81,22 +79,27 @@ body{
 .content .but .img1{
     display: inline-block;
     padding: 5%;
+    vertical-align: middle;
 }
 .content .but .img2{
     display: inline-block;
     padding: 5%;
+    vertical-align: middle;
 }
 .content .but .img3{
     display: inline-block;
     padding: 5%;
+    vertical-align: middle;
 }
-.content .but .img4{
+.content .but .img4 {
     display: inline-block;
     padding: 5%;
+    vertical-align: middle;
 }
 .content .but .img5{
     display: inline-block;
     padding: 5%;
+    vertical-align: middle;
 }
 .footer .caption span{
     position: absolute;
